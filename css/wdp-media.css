@@ -201,6 +201,7 @@ Version : 1.0
 	    height: 60px;
 	    margin: 0 5px;
 	    padding: 0;
+        font-size: 12px !important;
 	}
 	.wdp_contact_bar {
 		padding: 3em 0;
